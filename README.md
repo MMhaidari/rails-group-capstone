@@ -3,8 +3,6 @@
 <div align="center">
 
 </div>
-
-
 > # Recipe App
 
 # 📗 Table of Contents
